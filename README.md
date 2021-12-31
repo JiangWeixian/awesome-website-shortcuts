@@ -50,3 +50,9 @@
 ## music
 
 - [playlist.new](http://playlist.new) - create spotify playlist
+
+## others
+> useful, but not shortcut
+
+- [typescript playground](https://www.typescriptlang.org/play)
+- [rust playground](https://play.rust-lang.org/)
