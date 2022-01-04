@@ -39,7 +39,7 @@
 ## social
 
 - [hn.new](https://hn.new) - create [hashnode](https://hashnode.com/) post
-- [hackthon.new](https://hackthon.new) - open & expole hackthon games
+- [hackathon.new](https://hackathon.new) - open & expole hackathon games
 - [story.new](https://story.new) - create medium post
 
 ## design
