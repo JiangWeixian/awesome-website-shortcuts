@@ -56,3 +56,7 @@
 
 - [typescript playground](https://www.typescriptlang.org/play)
 - [rust playground](https://play.rust-lang.org/)
+
+## related
+
+- [@ifu/new](https://github.com/JiangWeixian/ifu/tree/master/packages/new) - alfred workflow to open website shortcuts from alfred
