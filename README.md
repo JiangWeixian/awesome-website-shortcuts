@@ -19,6 +19,7 @@
 - [ts.new](https://js.new) - create ts on codesandbox
 - [ng.new](https://ng.new) - create angluar on codesandbox
 - [vue.new](https://vue.new) - create vue on codesandbox
+- [nuxt.new](https://nuxt.new) - create nuxt on codesandbox
 - [paython.new](https://paython.new) - create paython playground
 - [node.new](https://node.new) - create js on stackbliz
 - [repl.new](https://repl.new) - create repl playgroud
