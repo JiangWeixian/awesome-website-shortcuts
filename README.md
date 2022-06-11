@@ -25,7 +25,7 @@
 - [repl.new](https://repl.new) - create repl playgroud
 - [linear.new](https://linear.new) - create linear board
 - [element-plus.run](https://element-plus.run/) - create Element Plus playground
-- [vite.new])(https://vite.new) - create vite on stackbliz
+- [vite.new](https://vite.new) - create vite on stackbliz
 
 ## work
 
